@@ -1,1 +1,6 @@
 .DS_Store
+02/
+__pycache__
+*-checkpoint.ipynb
+stupid_test.ipynb
+poetry.lock
