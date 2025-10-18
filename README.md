@@ -93,6 +93,7 @@ docker rmi law-links-service
 ## Структура проекта
 
 - [`main.py`](https://github.com/seemsGoodNow/hse_nlp/blob/main/main.py) - FastAPI-сервис
+- [`test.ipynb`](https://github.com/seemsGoodNow/hse_nlp/blob/main/test.ipynb) - ноутбук с тестами регулярок
 - [`src/`](https://github.com/seemsGoodNow/hse_nlp/blob/main/src/) - код проекта
     - [`models/`](https://github.com/seemsGoodNow/hse_nlp/blob/main/src/models) - data-модели для запросов
     - [`law_link_parser/`](https://github.com/seemsGoodNow/hse_nlp/blob/main/src/law_link_parser.py) - функции для парсинга, вызываемые в main.py
